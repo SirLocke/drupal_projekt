@@ -43,7 +43,7 @@ ul.links.inline li{
 }
 
 .main-header{
-  background: url(../images/welcome_banner_bg.jpg);  
+  background: url(https://images.pexels.com/photos/210583/pexels-photo-210583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
   color: #fff;
   padding: 10px 0;
   margin-bottom: 20px;
@@ -92,7 +92,7 @@ ul.links.inline li{
 
 .site-name a{
   font-size: 26px;
-  color: green;    //vorherfff
+  color: #fff;
 }
 
 /*Banner*/
@@ -107,7 +107,7 @@ ul.links.inline li{
 .welcome-banner-text h2{
   font-size: 30px;
   font-weight: bold;
-  color: green;   //vorherfff
+  color: #fff;
 }
 
 /*top widget*/
@@ -174,8 +174,8 @@ ul.links.inline li{
 .footer-menu{
   margin: 0;
   border: 0;
-  background: green; //vorhereee
-  color: green;      //vorherfff
+  background: #eee;
+  color: #fff;
 }
 
 .footer-menu ul{
