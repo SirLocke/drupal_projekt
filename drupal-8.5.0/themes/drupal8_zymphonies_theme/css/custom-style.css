@@ -43,10 +43,9 @@ ul.links.inline li{
 }
 
 .main-header{
-  background: url(https://images.pexels.com/photos/210583/pexels-photo-210583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
-  color: #fff;
-  padding: 50px 0;
-  margin-bottom: 20px;
+  color: #fff;  background: url(https://images.pexels.com/photos/279/black-and-white-branches-tree-high.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  padding: 80px 0;
+  margin-bottom: 10px;
   background-size: cover;
   position: relative;
 }
@@ -58,7 +57,7 @@ ul.links.inline li{
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(103, 153, 113, 0.88);
+  background: rgba(129, 179, 131, 0.88);
 }
 
 .main-header nav{
@@ -107,7 +106,7 @@ ul.links.inline li{
 .welcome-banner-text h2{
   font-size: 30px;
   font-weight: bold;
-  color: #fff;
+  color: #eee;
 }
 
 /*top widget*/
@@ -264,7 +263,7 @@ input, button, select, textarea{
 
 .btn, 
 input[type="submit"]{
-  background: #19c2c8;
+  background: #81b383;
   color: #fff;
   border: 0;
   padding: 13px;
