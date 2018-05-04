@@ -92,7 +92,7 @@ ul.links.inline li{
 
 .site-name a{
   font-size: 26px;
-  color: #fff;
+  color: green;    //vorherfff
 }
 
 /*Banner*/
@@ -107,7 +107,7 @@ ul.links.inline li{
 .welcome-banner-text h2{
   font-size: 30px;
   font-weight: bold;
-  color: #fff;
+  color: green;   //vorherfff
 }
 
 /*top widget*/
@@ -174,8 +174,8 @@ ul.links.inline li{
 .footer-menu{
   margin: 0;
   border: 0;
-  background: #eee;
-  color: #fff;
+  background: green; //vorhereee
+  color: green;      //vorherfff
 }
 
 .footer-menu ul{
