@@ -174,7 +174,7 @@ ul.links.inline li{
 .footer-menu{
   margin: 0;
   border: 0;
-  background: #eee;
+  background: green;
   color: #fff;
 }
 
@@ -222,7 +222,7 @@ ul.links.inline li{
   float: left;
   margin: 0 10px 0 0;
   text-align: center;
-  background: #3262b9;
+  background: blue;
   font-size: 14px;
   line-height: 220%;
 }
