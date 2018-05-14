@@ -556,3 +556,6 @@ ul.links.inline li{
   text-align: left;
   margin-bottom: 5px;
 }
+.menu-base-theme li{
+    background-color: background: rgba(129, 179, 131, 0.88);
+}
