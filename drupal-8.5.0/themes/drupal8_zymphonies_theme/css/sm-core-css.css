@@ -26,7 +26,7 @@
   color: white;
 }
 .menu-base-theme a.disabled {
-  color: #a1d1e8;
+  color: rgba(129, 179, 131, 0.88);
 }
 .menu-base-theme a span.sub-arrow {
   position: absolute;
