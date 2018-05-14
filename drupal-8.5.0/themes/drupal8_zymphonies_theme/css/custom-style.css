@@ -556,3 +556,12 @@ ul.links.inline li{
   text-align: left;
   margin-bottom: 5px;
 }
+
+#block-drupal8-zymphonies-theme-content > article > div.node__content > div:nth-child(1) > div:nth-child(1){
+  display: none;
+}
+
+#block-drupal8-zymphonies-theme-content > div > div > div:nth-child(n) > article > div.node__content > div > div:nth-child(1){
+  display: none;
+}
+
