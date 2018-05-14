@@ -307,7 +307,8 @@ nav h2{
 }
 
 .menu-base-theme li a{
-  background: #FBFBFB
+  background: #FBFBFB;
+  color:rgba(129, 179, 131, 0.88);
 }
 
 .main-menu {
