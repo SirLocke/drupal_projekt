@@ -173,7 +173,7 @@ ul.links.inline li{
 .footer-menu{
   margin: 0;
   border: 0;
-  background: #000;
+  background: #707070;
   color: #fff;
 }
 
@@ -307,7 +307,8 @@ nav h2{
 }
 
 .menu-base-theme li a{
-  background: #FBFBFB
+  background: #FBFBFB;
+  color:#FFFFFF;
 }
 
 .main-menu {
@@ -556,6 +557,14 @@ ul.links.inline li{
   text-align: left;
   margin-bottom: 5px;
 }
+
+#block-drupal8-zymphonies-theme-content > article > div.node__content > div:nth-child(1) > div:nth-child(1){
+  display: none;
 .menu-base-theme li{
     background-color: rgba(129, 179, 131, 0.88);
 }
+
+#block-drupal8-zymphonies-theme-content > div > div > div:nth-child(n) > article > div.node__content > div > div:nth-child(1){
+  display: none;
+}
+
